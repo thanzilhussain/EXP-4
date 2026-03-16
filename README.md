@@ -66,6 +66,20 @@ Full wave rectifier
 
 ![alt text](IMG_20260316_055509_142@152120946.jpg)
 
+OUTPUT:
+
+
+<img width="738" height="430" alt="Screenshot 2026-03-09 214427" src="https://github.com/user-attachments/assets/a61c2233-35c4-4106-b452-bdb7c00da93f" />
+<img width="1375" height="879" alt="Screenshot 2026-03-09 214402" src="https://github.com/user-attachments/assets/bab9cdd3-2129-42da-8c34-9ddbdb100152" />
+
+<img width="899" height="585" alt="Screenshot 2026-03-09 221547" src="https://github.com/user-attachments/assets/8b90420d-462a-46b7-8624-d13031b6649c" />
+<img width="1375" height="872" alt="Screenshot 2026-03-09 221534" src="https://github.com/user-attachments/assets/fd626b6f-b8ae-4a39-b58e-5c905477d2a5" />
+
+<img width="929" height="629" alt="Screenshot 2026-03-11 175759" src="https://github.com/user-attachments/assets/c76c7312-76c7-4c38-a990-6f690b8dca5f" />
+<img width="1374" height="869" alt="Screenshot 2026-03-11 175638" src="https://github.com/user-attachments/assets/5b72f778-1220-403d-afb3-da32f80bfa8e" />
+
+<img width="957" height="740" alt="Screenshot 2026-03-11 175438" src="https://github.com/user-attachments/assets/7cbf9b95-d497-4ba4-948f-52f3a703ca0c" />
+<img width="1369" height="873" alt="Screenshot 2026-03-11 175423" src="https://github.com/user-attachments/assets/8b3005be-02b9-4518-a5d1-9319eb9e5e8e" />
 
 RESULT:
 
